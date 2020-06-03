@@ -1,0 +1,6 @@
+Interface ILI9341 TFT screen with resolution of 320x240 with STM32F407VETx 
+
+The screen is using spi interface with is connected to spi1 of the stm32f407
+aslo, the data-command line is connected to PA3, CS to PA1 and RST to PA2
+
+the code is developed by Hussam Aldean 
